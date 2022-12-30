@@ -37,8 +37,6 @@ The application consists of the following classes:
 Demo Of this Project is Uploaded on Youtube. <br/>
 Click Here 👉 [Youtube Link](https://youtu.be/8Mv5mN37nJM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Mv5mN37nJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Note :
 This application is just a basic example of how to build an employee management system using Java Swing. You can modify and expand upon the code to add additional features and functionality as needed.
 
